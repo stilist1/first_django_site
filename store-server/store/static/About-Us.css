@@ -1,0 +1,58 @@
+ .u-section-1 {
+  background-image: url("images/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1436px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 166px 0 0 160px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 48px 123px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1184px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: 160px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 907px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 680px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 36.37% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 428px;
+  }
+}
